@@ -14,7 +14,7 @@
  * which keeps false positives to genuine Linux desktop Chrome users at
  * exactly 1080p arriving from Google or directly.
  *
- * @link https://github.com/Webperf-se/matomo-exclude-bots
+ * @link https://github.com/Webperf-se/matomoExcludeBots
  * @license https://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
  */
 

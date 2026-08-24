@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.3
+
+- Corrected the repository URLs in `plugin.json`, `README.md` and
+  `ExcludeBots.php` to point at `Webperf-se/matomoExcludeBots`, the
+  repository the plugin actually lives in.
+
 ## 1.0.2
 
 - Relicensed from MIT to GPL v3 or later, matching Matomo core and the

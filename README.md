@@ -197,6 +197,6 @@ GPL v3 or later. See [LICENSE](LICENSE).
 ## Support
 
 Please report issues at
-[github.com/Webperf-se/matomo-exclude-bots/issues](https://github.com/Webperf-se/matomo-exclude-bots/issues).
+[github.com/Webperf-se/matomoExcludeBots/issues](https://github.com/Webperf-se/matomoExcludeBots/issues).
 Built by [webperf.se](https://webperf.se) after being hit by this exact
 bot wave.

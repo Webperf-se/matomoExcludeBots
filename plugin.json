@@ -8,7 +8,7 @@
     },
     "keywords": ["bots", "spam", "tracking", "headless", "fake-traffic", "exclude"],
     "license": "GPL v3+",
-    "homepage": "https://github.com/Webperf-se/matomo-exclude-bots",
+    "homepage": "https://github.com/Webperf-se/matomoExcludeBots",
     "authors": [
         {
             "name": "Webperf AB",
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/Webperf-se/matomo-exclude-bots/issues",
-        "source": "https://github.com/Webperf-se/matomo-exclude-bots"
+        "issues": "https://github.com/Webperf-se/matomoExcludeBots/issues",
+        "source": "https://github.com/Webperf-se/matomoExcludeBots"
     }
 }
