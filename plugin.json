@@ -1,7 +1,7 @@
 {
     "name": "ExcludeBots",
     "description": "Excludes fake visits from stealth headless-browser bots that evade default bot detection: fingerprint-based exclusion at tracking time.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "theme": false,
     "require": {
         "matomo": ">=5.0.0-b1,<6.0.0-b1"
